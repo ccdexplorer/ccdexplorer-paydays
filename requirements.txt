@@ -5,3 +5,4 @@ grpcio-tools
 ccdexplorer-fundamentals
 betterproto==2.0.0b5
 python-dotenv
+aihttp
